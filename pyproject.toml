@@ -1,0 +1,16 @@
+[project]
+name = "comfyui-open-h3-face-region"
+description = "Keep faces when you regenerate MiniMax H3 videos to 2K with NVIDIA's Open-H3-Regenerate-2K: an automatic face mask (OpenCV YuNet) makes faces start the refine from lower noise while the rest of the frame gets the full regenerate."
+version = "1.0.0"
+license = { file = "LICENSE" }
+dependencies = ["opencv-python>=4.8", "scipy", "numpy"]
+
+[project.urls]
+Repository = "https://github.com/BennyDaBall930/ComfyUI-Open-H3-FaceRegion"
+Documentation = "https://github.com/BennyDaBall930/ComfyUI-Open-H3-FaceRegion#readme"
+"Bug Tracker" = "https://github.com/BennyDaBall930/ComfyUI-Open-H3-FaceRegion/issues"
+
+[tool.comfy]
+PublisherId = "bennydaball"
+DisplayName = "ComfyUI Open-H3 Face Region"
+Icon = ""
