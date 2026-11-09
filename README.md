@@ -46,3 +46,7 @@ Code: Apache-2.0. YuNet face detector (`models/face_detection_yunet_2023mar.onnx
 (`models/LICENSE_YuNet_MIT.txt`), from [opencv_zoo](https://github.com/opencv/opencv_zoo). Built on NVIDIA's
 Open-H3-Regenerate-2K, rdh9616's nodes, Kijai's refiner LoRAs, LBH-123-AI's latent upscaler and MiniMax H3 (MiniMax H3
 Community License; check it for your region and use).
+
+**Follow me on X [@BennyDaBall_OG](https://x.com/BennyDaBall_OG) !**
+
+**Want to support my work? Buy me a coffee on [Ko-fi](https://ko-fi.com/bennydaball) !**
